@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="firstfrag">First Fragment</string>
+    <string name="secondfrag">.......Second Fragment ......
+
+        ......Displayed......
+        ......here.....
+
+        .</string>
+</resources>
